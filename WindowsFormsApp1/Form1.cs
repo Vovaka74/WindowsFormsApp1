@@ -29,7 +29,7 @@ namespace WindowsFormsApp1
             {
                 if (i==6)
                 {
-                    label1.Text = (i.ToString());
+                    label1.Text = (i.ToString()); //изменения
                 }
                
                 
